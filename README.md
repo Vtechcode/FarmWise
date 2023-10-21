@@ -18,8 +18,8 @@ Design an IoT-enabled system that will manage plant irrigation to optimize water
 During the week of October 10, 2023, the Farmwise team made significant progress on the
 development of their IoT-enabled irrigation system. The team began by brainstorming and
 discussing various aspects of the project, including:
-• Which IoT analytics platform to use to analyze the sensor data
-• Which environmental conditions to take into account
-• How and whether to incorporate machine learning into the project
-• Whether to focus on a single crop or a wide range of crops
-• Whether to incorporate weather forecast data into the team's data
+- Which IoT analytics platform to use to analyze the sensor data
+- Which environmental conditions to take into account
+- How and whether to incorporate machine learning into the project
+- Whether to focus on a single crop or a wide range of crops
+- Whether to incorporate weather forecast data into the team's data
