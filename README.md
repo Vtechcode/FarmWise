@@ -23,3 +23,7 @@ discussing various aspects of the project, including:
 - How and whether to incorporate machine learning into the project
 - Whether to focus on a single crop or a wide range of crops
 - Whether to incorporate weather forecast data into the team's data
+
+Simulation in wokwi 
+Wokwi simulation link: https://wokwi.com/projects/379101445631741953
+![wokwi-simulation](https://github.com/Vtechcode/FarmWise/assets/98039871/f675e1d2-19e8-4f44-8486-97984bd22371)
